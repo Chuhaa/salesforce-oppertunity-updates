@@ -1,0 +1,9 @@
+org_name = "chuhaashanan"
+version = "0.1.0"
+lockfile_version = "1.0.0"
+ballerina_version = "slp2"
+
+[[imports."ballerinax/sfdc:2.1.2"]]
+org_name = "ballerina"
+name = "encoding"
+version = "1.0.0"
